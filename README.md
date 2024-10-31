@@ -1,7 +1,9 @@
-# VLRASN-112
+# VLRASN112_CVIP2024
 > [!NOTE]
-> This is a sample subset data to get a feel about the entire dataset.
-> The entire data will be released once the paper gets accepted.
+> - This repository includes supplementary material to support our research paper.
+> - For in-depth insights and extended data, please see the document: [SUPPLEMENTARY_501.pdf](https://github.com/meghali2018/VLRASN112_CVIP2024/blob/main/SUPPLEMENTARY_501.pdf)
+> - Additionally, the directory structure of the dataset is outlined below.
+
 
 ## Directory Structure
 
