@@ -1,7 +1,7 @@
 # VLRASN112_CVIP2024
 > [!NOTE]
 > - This repository includes supplementary material to support our research paper.
-> - For in-depth insights and extended data, please see the document: [SUPPLEMENTARY_501.pdf](https://github.com/meghali2018/VLRASN112_CVIP2024/blob/main/SUPPLEMENTARY_501.pdf)
+> - For in-depth insights and extended data, please see the document: [SUPPLEMENTARY_501.pdf](https://github.com/meghali2018/VLRASN112_CVIP2024/blob/main/Supplementary_VLRASN112.pdf)
 > - Additionally, the directory structure of the dataset is outlined below.
 
 
